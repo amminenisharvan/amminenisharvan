@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there, I'm Sharvan! 👋
 
-<!--
-**amminenisharvan/amminenisharvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+I am a passionate developer who loves building cool projects and learning new technologies. 
 
-Here are some ideas to get you started:
+- 🔭 **Current Focus:** Working on [Name of Project]
+- 🌱 **Learning Journey:** Currently mastering [Skill/Language]
+- 👯 **Collaboration:** Looking to help out with [Topic/Project Type]
+- 🤔 **Help Needed:** Seeking guidance on [Topic]
+- 💬 **Ask Me About:** Web development, coding tips, or just a friendly chat!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+### 🛠️ Tech Stack & Tools
+
+Add icons for your favorite tools here (uncomment and edit below):
+<!-- 
+<img src="https://shields.io" />
+<img src="https://shields.io" />
+<img src="https://shields.io" />
 -->
+
+---
+
+### 📊 GitHub Stats
+
+📈 *Here is a live look at my GitHub activity:*
+
+![Sharvan's GitHub Stats](https://vercel.app)
+![Top Langs](https://vercel.app)
+
+---
+
+### 📫 Connect With Me
+- 💼 **LinkedIn:** [Your Link Here]
+- 🐦 **Twitter:** [Your Link Here]
+- 📧 **Email:** [Your Email Here]
+
+⚡ **Fun Fact:** I can code while listening to music on repeat!
