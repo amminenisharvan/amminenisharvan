@@ -1,14 +1,21 @@
 # Hi there, I'm Ammineni Sharvan! 👋
-AI & Machine Learning Engineer | Computer Vision | Building Real-Time Detection & Predictive Systems.
+
+🎓 MCA Student
+🤖 AI/ML Enthusiast
+🐍 Python Developer
+👁️ Computer Vision Enthusiast
 
 ### 👨‍💻 About Me
 I'm a Machine Learning Engineer and MCA student (CGPA 8.45, Presidency University) with hands-on experience building and deploying end-to-end AI applications across computer vision, predictive modeling, and fraud analytics.
  
-- 🔭 **Current Focus: I ship real, working systems not just notebooks spanning industrial safety, financial risk, touchless interfaces, and generative tooling.
-- 🌱 **Learning Journey:Always learning recent focus areas include YOLOv8 object detection and generative AI pipelines.
-- 👯 **Collaboration:** Looking to help out with [Topic/Project Type]
-- 🤔 **Help Needed:** Seeking guidance on [Topic]
-- 💬 **Ask Me About:** Web development, coding tips, or just a friendly chat!
+🎓 Currently pursuing MCA at Presidency University
+🤖 Interested in Artificial Intelligence & Machine Learning
+🐍 Strong interest in Python development
+👁️ Exploring Computer Vision
+🧠 Learning Deep Learning & Generative AI
+💻 Building practical AI/ML projects
+📚 Continuously improving my programming and problem-solving skills
+🎯 Looking for opportunities to work on real-world AI/ML projects
 
 ---
 
